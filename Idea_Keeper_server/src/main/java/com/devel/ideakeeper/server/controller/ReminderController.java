@@ -15,4 +15,5 @@ public class ReminderController {
     public String getReminder(ModelMap model) {
         return "Some reminder";
     }
+
 }
