@@ -9,4 +9,5 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter
 @EnableWebMvc
 @ComponentScan("com.devel.ideakeeper.server")
 public class WebConfig extends WebMvcConfigurerAdapter {
+
 }
